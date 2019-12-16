@@ -12,5 +12,10 @@ public class LoginTest {
 	public void Homemtd() {
 		System.out.println("Hometset.....");
 	}
+
+	@Test
+	public void taskmtd() {
+		System.out.println("taskmtd.....");
+	}
 	
 }
