@@ -17,5 +17,9 @@ public class LoginTest {
 	public void taskmtd() {
 		System.out.println("taskmtd.....");
 	}
-	
+
+	@Test
+	public void customermtd() {
+		System.out.println("customr.....");
+	}
 }
